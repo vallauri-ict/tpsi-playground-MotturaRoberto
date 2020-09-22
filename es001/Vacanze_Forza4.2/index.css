@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+h1{
+    font-size: 52pt;
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin: 20px auto;
+    padding: 0px;
+    text-align: center;
+}
+
+#wrapper{
+    border: 1px solid black;
+    width: 490px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.pedina{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: gray;
+    margin:  5px;
+    display:inline-block;
+    vertical-align: middle;
+}
+h3{
+    text-align: center;
+}
